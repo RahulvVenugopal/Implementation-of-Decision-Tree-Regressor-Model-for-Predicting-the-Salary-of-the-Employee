@@ -56,11 +56,10 @@ plt.show()
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/026ea95e-8e58-424d-89db-cc1b0d6bf417)
-![image](https://github.com/user-attachments/assets/9e0ba7bc-e703-4339-9cb4-38351ab15b84)
-![image](https://github.com/user-attachments/assets/e49403e0-b581-4a21-8d73-f8b6ca23eba1)
-![image](https://github.com/user-attachments/assets/aeeaf640-2856-4115-9aa7-367630eae31b)
-![image](https://github.com/user-attachments/assets/c44e89a9-5d8b-4d9d-9c3a-0f943069eb70)
+![image](https://github.com/user-attachments/assets/e8393665-49bb-43ff-96b3-5835fe8e4451)
+
+![image](https://github.com/user-attachments/assets/efa7d230-15fc-427d-bd08-d183a922127b)
+
 
 
 ## Result:
